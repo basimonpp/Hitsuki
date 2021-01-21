@@ -2,7 +2,6 @@
 
 ![Banner](https://telegra.ph/file/601541db4ff2286fd1096.jpg)
 
-![Deploy](https://heroku.com/deploy?template=(https://github.com/basimonpp/Hitsuki)
 
 To anyone coming here to **clone this bot**, no support will be given for it. If you PM me on Telegram will be ignored.
 
