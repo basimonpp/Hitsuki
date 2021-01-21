@@ -1,7 +1,8 @@
 # Hitsuki - Telegram Bot
 
-![Banner](https://telegra.ph/file/601541db4ff2286fd1096.jpg)
+![Banner](https://telegra.ph/file/3e95ddd57129517216fcf.jpg)
 
+![Deploy To Heroku](https://heroku.com/deploy?template=https://github.com/basimonpp/Hitsuki)
 
 To anyone coming here to **clone this bot**, no support will be given for it. If you PM me on Telegram will be ignored.
 
